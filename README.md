@@ -5,9 +5,9 @@
 
 - 🌱 Estou estudando Python para Desenvolvimento Web com Flask e Pentest - Cybersecurity. 
 
-- 👯 Estou procurando oportunidades na área de desenvolvimento web, ainda tenho muito coisa para aprender, mais tenho uma boa base e gosto de encarar novos desafios. 
+- 🔍💼 Estou procurando oportunidades na área de desenvolvimento web, ainda tenho muito coisa para aprender, mais tenho uma boa base e gosto de encarar novos desafios. 
 
-- ⚡❤️ Tecnologia, hardwares, games.
+- ❤️ = 🚀 Tecnologia, 💻 hardwares, 🎮♟ games, [🎧 música]("https://open.spotify.com/user/12158181244?si=f0f5a477616d4c2e").
 
 #
 <p align="left">
