@@ -7,7 +7,7 @@
 
 - 🔍💼 Estou procurando oportunidades na área de desenvolvimento web, ainda tenho muito coisa para aprender, mais tenho uma boa base e gosto de encarar novos desafios. 
 
-- ❤️ = 🚀 Tecnologia, 💻 hardwares, 🎮♟ games, [🎧 música](https://open.spotify.com/user/12158181244?si=f0f5a477616d4c2e).
+- ❤️ = 🚀 Tecnologia, 💻 hardwares, 🎮♟ games, [🎧 música](https://open.spotify.com/user/12158181244?si=f0f5a477616d4c2e), [✏️ escrever](https://www.tabnews.com.br/fellipematos).
 
 #
 <p align="left">
