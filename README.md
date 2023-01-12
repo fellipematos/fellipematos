@@ -9,6 +9,8 @@
 
 - ❤️ = 🚀 tecnologia, 💻 hardware, 🎮♟ game, [🎧 música](https://open.spotify.com/user/12158181244?si=f0f5a477616d4c2e), [📝 blog](https://www.tabnews.com.br/fellipematos).
 
+- 💡 [Portfólio](https://fellipematos.github.io/)
+
 #
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -23,12 +25,13 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-#
-<div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fellipematos&style=for-the-badge&color=lightgrey" alt="fellipematos" /> </p>
+
+<!--div>
 <a href="https://github.com/fellipematos">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fellipematos&layout=compact&langs_count=7&theme=dracula"/>
-<!--img height="180em" src="https://github-readme-stats.vercel.app/api?username=fellipematos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/-->
-</div>
+<!--img height="180em" src="https://github-readme-stats.vercel.app/api?username=fellipematos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/- ->
+</div-->
 
   #
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=fellipematos" alt="fellipematos" /> </p>
+  
