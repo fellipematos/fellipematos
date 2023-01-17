@@ -1,7 +1,7 @@
 # Olá 👋!
 
 
-- 🔭 Atualmente estou trabalhando como Gerente de E-commerce, responsável pela parte operacional, deste a impressão do pedido até a postagem nas transportadoras.
+- 📦 Atualmente estou trabalhando como Gerente de E-commerce, responsável pela parte operacional, deste a impressão do pedido até a postagem nas transportadoras.
 
 - 🌱 Em constante aprendizado, estudando Python para desenvolvimento web com Flask e segurança da informação. 
 
