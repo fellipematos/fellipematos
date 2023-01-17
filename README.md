@@ -7,7 +7,7 @@
 
 - 🔍💼 Estou procurando oportunidades na área de desenvolvimento web, ainda tenho muito coisa para aprender, mais tenho uma boa base e gosto de encarar novos desafios. 
 
-- ❤️ = 🚀 tecnologia, 💻 hardware, 🎮♟ game, [🎧 música](https://open.spotify.com/user/12158181244?si=f0f5a477616d4c2e), [📝 blog](https://www.tabnews.com.br/fellipematos).
+- ❤️ = 🚀 tecnologia, 💻 hardware, 🎮♟ game, [🎧 música](https://open.spotify.com/user/12158181244?si=38523899b03d4e32), [📝 blog](https://www.tabnews.com.br/fellipematos).
 
 - 💡 [Portfólio](https://fellipematos.github.io/)
 
@@ -27,11 +27,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fellipematos&style=for-the-badge&color=lightgrey" alt="fellipematos" /> </p>
 
-<!--div>
+<div>
 <a href="https://github.com/fellipematos">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fellipematos&layout=compact&langs_count=7&theme=dracula"/>
-<!--img height="180em" src="https://github-readme-stats.vercel.app/api?username=fellipematos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/- ->
-</div-->
+<!--img height="180em" src="https://github-readme-stats.vercel.app/api?username=fellipematos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/-->
+</div>
 
   #
   
