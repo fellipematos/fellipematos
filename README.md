@@ -1,15 +1,17 @@
-# Olá 👋!
+# Olá 👋, seja bem vindo!
 
 
-- 📦 Atualmente estou trabalhando como Gerente de E-commerce, responsável pela parte operacional, deste a impressão do pedido até a postagem nas transportadoras.
+🤝 Prazer! Me chamo Fellipe, fique a vontade, qualquer coisa estou a sua disposição.
 
-- 🌱 Em constante aprendizado, estudando Python para desenvolvimento web com Flask e segurança da informação. 
+📦 Atualmente estou trabalhando como Gerente de E-commerce, responsável pela parte operacional, deste a impressão do pedido até a postagem nas transportadoras.
 
-- 🔍💼 Estou procurando oportunidades na área de desenvolvimento web, ainda tenho muito coisa para aprender, mais tenho uma boa base e gosto de encarar novos desafios. 
+🌱 Em constante aprendizada, em Python para desenvolvimento web com Flask e segurança da informação.
 
-- ❤️ = 🚀 tecnologia, 💻 hardware, 🎮♟ game, [🎧 música](https://open.spotify.com/user/12158181244?si=38523899b03d4e32), [📝 blog](https://www.tabnews.com.br/fellipematos).
+🔍💼 Estou procurando oportunidades na área de desenvolvimento web, ainda tenho muito coisa para aprender, porém tenho uma boa base e gosto de encarar novos desafios.
 
-- 💡 [Portfólio](https://fellipematos.github.io/)
+❤️ == 👧 minha filha Bella, 🚀 tecnologia, 💻 hardware - iot, 🎮♟ video game, 🎧 <a	href="https://open.spotify.com/user/12158181244?si=38523899b03d4e32">música</a>, 📝 <a	href="https://www.tabnews.com.br/fellipematos">estudar</a>, 🚗 carros.
+
+💡 [Portfólio](https://fellipematos.github.io/)
 
 #
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
